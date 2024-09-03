@@ -32,7 +32,7 @@
     <div>
       <img src="https://media.discordapp.net/attachments/647468908097306625/1280258540593877073/dIBAfFJsZA4E0M9lzxqBlE3YY3wE4hFmw0IhkIYlvKLpIpCKQPvoBoH4oNjMGAikmXkve9YIpGzCHuMjEI8wCQUBCECgSQQQSJOyzVwhAAEIeCSAQDzCJBQEIACBJhFAIE3KNnOFAAQg4JEAAvEIk1AQgAAEmkQAgTQp28wVAhCAgEcCCMQjTEJBAAIQaBIBBNKkbDNXCEAAAh4JIBCPMAkFAQhAoEkEEEiTss1cIQABCHgk8N8VCMWecMRAfAAAAABJRU5ErkJggg.png?ex=66d76d2e&is=66d61bae&hm=4b0412c5bef1be5d91e4911d968ca16196ffc7780762eb2377d6ca95c3fbc2ed&=&format=webp&quality=lossless" alt="pony1" width="24%" height="auto" style="float: left;">
       <img src="https://media.discordapp.net/attachments/647468908097306625/1280258540208128121/wdeZJGPwcykKAAAAABJRU5ErkJggg.png?ex=66d76d2e&is=66d61bae&hm=484de207a2d3053795a625172747b464a40d70b737519c690f677fe5f4353d25&=&format=webp&quality=lossless"alt="pony2" width="24%" height="auto" style="float: ;">
-      <img src="https://media.discordapp.net/attachments/647468908097306625/1277530413807439943/MG5YCtMvCAAAAAElFTkSuQmCC.png?ex=66cd806a&is=66cc2eea&hm=232bb56663e87442097ded69f3a6578b9e6146cccc20c0812ad1d7c14ec0309e&=&format=webp&quality=lossless"alt="pony3" width="24%" height="auto" style="float: ;">
+      <img src="https://github.com/user-attachments/assets/e9c6d6dc-15fb-4b72-a0a6-7f18a4f8cdec"alt="pony3" width="24%" height="auto" style="float: ;">
       <img src="https://media.discordapp.net/attachments/647468908097306625/1280289555873796247/yzb61bo7EpAAAAAElFTkSuQmCC.png?ex=66d78a10&is=66d63890&hm=ae9dfa922e731571644920ec398bebc777eb0dc9929bad51956e4d2e28c0ace0&=&format=webp&quality=lossless" alt="pony4" width="24%" height="auto" style="float: right;">
     </div>
     <div align="center">
