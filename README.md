@@ -19,7 +19,7 @@
     <div>
       <h3>𝚋𝚎𝚏𝚘𝚛𝚎 𝚢𝚘𝚞 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝</h3>
       <list>
-        <ol>i dont support any of roxs actions, and dont talk to me about any kind of drama</ol>
+        <ol>i dont support any of roxs actions, and dont talk to me about any kind of drama. i play dw without premium and i havent bought any of their items.</ol>
         <ol>im often always offtab, i apologize if i dont respond :-2 but cuddling is always okay</ol>
         <ol>if u sit by me i dont really care if its in a ship way or not, i dont flirt with people on this game, if u just wanna be by someone be my guest</ol>
         <ol>if you make alot of sexual jokes in public, dont even try talking to me ^_^</ol>
