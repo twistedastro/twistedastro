@@ -14,7 +14,7 @@
           <p>‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿</p>
     </div>
     <div>
-      <img src="https://media.discordapp.net/attachments/647468908097306625/1277523613964046386/astroooo.png?ex=66cd7a14&is=66cc2894&hm=c71423d97e86809cdc82aabf9aa8d8d18f8e18054588bf9989315581e7593988&=&format=webp&quality=lossless" alt="hueuihi" width="100%" height="auto">
+      <img src="https://github.com/user-attachments/assets/d7137406-73c4-4f87-8e89-f1c9e6fd2142" alt="hueuihi" width="100%" height="auto">
     </div>
     <div>
       <h3>𝚋𝚎𝚏𝚘𝚛𝚎 𝚢𝚘𝚞 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝</h3>
