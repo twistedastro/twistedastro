@@ -4,11 +4,12 @@
       <img src="https://orig01.deviantart.net/05aa/f/2013/067/f/3/divider___sparkles_by_inkori-d5xd63k.gif" alt="banner" width="50%" height="auto" style="float: left;">
       <img src="https://orig01.deviantart.net/05aa/f/2013/067/f/3/divider___sparkles_by_inkori-d5xd63k.gif" alt="banner" width="49%" height="auto">
     </div>
-    <div>
-      <h3 align="center"">╔═══════════════════════*.·:·.☽✧ ✦ ✧☾.·:·.*═══════════════════════╗</h3>
+    <div align="center">
+      <h3 align="center">╔═══════════════════════*.·:·.☽✧ ✦ ✧☾.·:·.*═══════════════════════╗</h3>
         <h3>𝚌𝚘𝚛𝚗𝚎𝚛 ; 𝚝𝚊𝚛𝚝𝚊𝚛𝚞𝚜 ; 𝚊𝚜𝚝𝚛𝚘</h3>
-        <p style="text-align: center;">he/she/they, no preference for any</p>
+        <p">he/she/they, no preference for any</p>
         <p>Lvl; 16-18</p>
+      <h6>this github is very outdated, visit my <a href="https://github.com/12R0DS">main</a></h6>
       <p>︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵</p>
         <p><a href="https://youtu.be/CsVWLvPgz6s?si=XgByJCBgGYFY1hxR">", Give me time ; Just give me some wine ; And you sing me a rhyme ; Then I'll be just fine! ,"<a/></p>
           <p>‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿</p>
@@ -28,12 +29,14 @@
     <div>
       <h3>𝚙𝚘𝚗𝚒𝚎𝚜 𝚒𝚖 𝚘𝚏𝚝𝚎𝚗 𝚒𝚗</h3>
       <br>
+      <div><h6>in DW area</h6></div>
+      <div align="right" display="inline-block" width="50%" max-width="100%"><h6>outside DW area</h6></div>
     </div>
     <div>
-      <img src="https://github.com/user-attachments/assets/0cc52b78-464b-4177-9629-3023bf477deb" alt="pony1" width="24%" height="auto" style="float: left;">
-      <img src="https://github.com/user-attachments/assets/a0dc2621-3b93-43b3-919b-ac68d3c6ed4a"alt="pony2" width="24%" height="auto" style="float: ;">
-      <img src="https://github.com/user-attachments/assets/e9c6d6dc-15fb-4b72-a0a6-7f18a4f8cdec"alt="pony3" width="24%" height="auto" style="float: ;">
-      <img src="https://media.discordapp.net/attachments/647468908097306625/1280289555873796247/yzb61bo7EpAAAAAElFTkSuQmCC.png?ex=66d78a10&is=66d63890&hm=ae9dfa922e731571644920ec398bebc777eb0dc9929bad51956e4d2e28c0ace0&=&format=webp&quality=lossless" alt="pony4" width="24%" height="auto" style="float: right;">
+      <img src="https://github.com/user-attachments/assets/bd041415-c6cf-4790-b3db-29b1667854c0" alt="pony1" width="24%" height="auto" style="float: left;">
+      <img src="https://github.com/user-attachments/assets/3be506bf-f64a-49bd-b6ee-1e8333a76e7e"alt="pony2" width="24%" height="auto" style="float: ;">
+      <img src="https://github.com/user-attachments/assets/f354d459-ad1b-4d2f-860b-c94f377ec341"alt="pony3" width="24%" height="auto" style="float: ;">
+      <img src="https://github.com/user-attachments/assets/8c85dbe2-e1c9-4942-bda5-4ef689d1454f" alt="pony4" width="24%" height="auto" style="float: right;">
     </div>
     <div align="center">
       <img src="https://github.com/user-attachments/assets/9c39d931-98de-4cd1-a828-f87067b648a1" alt="1" width="10%" height="auto" float="left">
