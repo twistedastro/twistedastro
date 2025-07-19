@@ -30,14 +30,12 @@
     <div>
       <h3>𝚙𝚘𝚗𝚒𝚎𝚜 𝚒𝚖 𝚘𝚏𝚝𝚎𝚗 𝚒𝚗</h3>
       <br>
-      <div><h6>in DW area</h6></div>
-      <div align="right" display="inline-block" width="50%" max-width="100%"><h6>outside DW area</h6></div>
     </div>
     <div>
-      <img src="https://github.com/user-attachments/assets/bb7abe50-b78d-457d-acb6-a23b91e372fc" alt="pony1" width="24%" height="auto" style="float: left;">
-      <img src="https://github.com/user-attachments/assets/2358dbb6-0605-40c2-ae48-a39c422bb273" alt="pony2" width="24%" height="auto" style="float: ;">
-      <img src="https://github.com/user-attachments/assets/f354d459-ad1b-4d2f-860b-c94f377ec341" alt="pony3" width="24%" height="auto" style="float: ;">
-      <img src="https://github.com/user-attachments/assets/8c85dbe2-e1c9-4942-bda5-4ef689d1454f" alt="pony4" width="24%" height="auto" style="float: right;">
+      <img src="https://github.com/user-attachments/assets/3a84de88-377a-456b-a0a3-de3cb57cb1ea" alt="pony1" width="24%" height="auto" style="float: left;">
+      <img src="https://github.com/user-attachments/assets/73ea0c80-138b-4fba-bdfc-0c339e797cba" alt="pony2" width="24%" height="auto" style="float: ;">
+      <img src="https://github.com/user-attachments/assets/1024e8ec-d45a-4d45-8e12-318d8239a729" alt="pony3" width="24%" height="auto" style="float: ;">
+      <img src="https://github.com/user-attachments/assets/24f55345-a61e-477e-99ec-51bcd3166e45" alt="pony4" width="24%" height="auto" style="float: right;">
     </div>
     <div align="center">
       <img src="https://github.com/user-attachments/assets/6b5eb70f-f058-4c15-8fe2-f13d00b8f69a" alt="1" width="10%" height="auto" float="left">
