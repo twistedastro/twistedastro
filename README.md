@@ -8,7 +8,6 @@
       <h3 align="center">╔══════*.·:·.☽✧ ✦ ✧☾.·:·.*══════╗</h3>
         <h3>𝚌𝚘𝚛𝚗𝚎𝚛 ; 𝚝𝚊𝚛𝚝𝚊𝚛𝚞𝚜 ; 𝚊𝚜𝚝𝚛𝚘</h3>
         <p">he/she/they, no preference for any</p>
-        <p>Lvl; 16-18</p>
       <h6>this github is very outdated, visit my <a href="https://github.com/12R0DS">main</a></h6>
       <p>︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵</p>
         <p><a href="https://youtu.be/CsVWLvPgz6s?si=XgByJCBgGYFY1hxR">", Give me time ; Just give me some wine ; And you sing me a rhyme ; Then I'll be just fine! ,"<a/></p>
@@ -21,21 +20,10 @@
     <div>
       <h3>𝚋𝚎𝚏𝚘𝚛𝚎 𝚢𝚘𝚞 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝</h3>
       <list>
-        <ol>i dont support any of roxs actions, and dont talk to me about any kind of drama. i play dw without premium and i havent bought any of their items.</ol>
         <ol>im often always offtab, i apologize if i dont respond :-2 but cuddling is always okay</ol>
         <ol>if u sit by me i dont really care if its in a ship way or not, i dont flirt with people on this game, if u just wanna be by someone be my guest</ol>
         <ol>if you make alot of sexual jokes in public, dont even try talking to me ^_^</ol>
       </list>
-    </div>
-    <div>
-      <h3>𝚙𝚘𝚗𝚒𝚎𝚜 𝚒𝚖 𝚘𝚏𝚝𝚎𝚗 𝚒𝚗</h3>
-      <br>
-    </div>
-    <div>
-      <img src="https://github.com/user-attachments/assets/3a84de88-377a-456b-a0a3-de3cb57cb1ea" alt="pony1" width="24%" height="auto" style="float: left;">
-      <img src="https://github.com/user-attachments/assets/73ea0c80-138b-4fba-bdfc-0c339e797cba" alt="pony2" width="24%" height="auto" style="float: ;">
-      <img src="https://github.com/user-attachments/assets/1024e8ec-d45a-4d45-8e12-318d8239a729" alt="pony3" width="24%" height="auto" style="float: ;">
-      <img src="https://github.com/user-attachments/assets/24f55345-a61e-477e-99ec-51bcd3166e45" alt="pony4" width="24%" height="auto" style="float: right;">
     </div>
     <div align="center">
       <img src="https://github.com/user-attachments/assets/6b5eb70f-f058-4c15-8fe2-f13d00b8f69a" alt="1" width="10%" height="auto" float="left">
