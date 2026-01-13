@@ -8,7 +8,7 @@
       <img src="https://github.com/user-attachments/assets/0fdd351c-9d1a-4fb4-86df-9eafa9b4a8b0" width="70%" height="auto">
         <h3>𝚌𝚘𝚛𝚗𝚎𝚛 ; archie</h3>
         <p">he/she/they, no preference for any</p>
-        <p><a href="https://youtu.be/CsVWLvPgz6s?si=XgByJCBgGYFY1hxR">", Give me time ; Just give me some wine ; And you sing me a rhyme ; Then I'll be just fine! ,"<a/></p>
+        <p><a href="https://youtu.be/-QkV_oUqjtY?si=tJh9Rj9izaoZKlce">", Give me time ; Just give me some wine ; And you sing me a rhyme ; Then I'll be just fine! ,"<a/></p>
     </div>
     <div align="center">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=twistedastro.visitor-badge&left_color=blue&right_color=black&left_text=stars">
